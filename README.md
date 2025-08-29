@@ -14,7 +14,7 @@ Key questions addressed:
 🛠️ **Tech Stack**
 
 - **Storage/Querying:** SQLite
-- **Analysis/Modeling:** Python (**Pandas, Scikit-learn, Imblearn, Optuna**)
+- **Analysis/Modeling:** Python (**Pandas, Scikit-learn**)
 - **Visualization:** **Matplotlib, Seaborn, Power BI**
 - **Dataset:** **IBM HR Analytics Employee Attrition & Performance**
 
